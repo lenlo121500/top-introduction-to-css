@@ -1,0 +1,24 @@
+.first,
+.second,
+.third {
+  background-color: #d87093;
+  font-family:
+    Verdana,
+    Dejavu Sans,
+    sans-serif;
+}
+
+#one {
+  color: #0000ff;
+  font-size: 32px;
+}
+
+.second {
+  font-size: 24px;
+}
+
+#two {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
